@@ -1,0 +1,10 @@
+.custom_background {
+    background-color: rgba(15, 112, 230, 0.921) !important;
+}
+
+.special_text {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(94, 94, 94);
+
+}
